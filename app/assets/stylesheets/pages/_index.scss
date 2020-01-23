@@ -1,0 +1,9 @@
+// Import page-specific CSS files here.
+@import "home";
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
